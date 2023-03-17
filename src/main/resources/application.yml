@@ -1,0 +1,8 @@
+# ???????
+spring.datasource.url=jdbc:mysql://localhost:3306/mvc
+spring.datasource.username=root
+spring.datasource.password=33333333
+
+# MyBatis ??
+mybatis.mapper-locations=classpath:/dao/*.xml
+mybatis.type-aliases-package=com.syashiei.demo.dao
